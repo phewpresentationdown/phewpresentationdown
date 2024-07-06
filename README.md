@@ -1,11 +1,8 @@
-## Sobre Mim
+👋 Olá, eu sou @phewpresentationdown!
+🌐 Estou atualmente focado em aprender e desenvolver minhas habilidades em desenvolvimento web.
+-Procuro oportunidades para colaborar em projetos de código aberto, especialmente aqueles que envolvem acessibilidade e educação. Estou à disposição para contribuir!
+- Curiosidade: Sou apaixonado por aprendizado contínuo e busco conhecimento todos os dias. Tenho um grande interesse em aprender sobre diversos assuntos e estou sempre aberto a novos desafios!
 
-👋 Oi, sou @seu_nome_de_usuário!
-🌱 Atualmente estou aprendendo Python e desenvolvimento web.
-💞️ Estou procurando colaborar em projetos de código aberto relacionados a acessibilidade e educação.
-📫 Você pode me encontrar no Twitter: @seu_nome_no_twitter.
-😄 Pronomes: ele/dele
-⚡ Curiosidade: Sou apaixonado por astronomia e adoro observar as estrelas à noite!
 
 
 
